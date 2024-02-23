@@ -31,3 +31,5 @@
 
 클론 이미지
 ![image](https://github.com/csm031/Daangn_Clone/assets/156399649/ebf930f4-c9fb-438a-96ef-3889f41961af)
+
+아쉬운점
